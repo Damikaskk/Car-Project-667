@@ -133,7 +133,5 @@ We welcome contributions to improve this project! Here’s how you can contribut
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
----
 
-Happy Building! If you have any questions or issues, feel free to open an issue or contact us.
 
