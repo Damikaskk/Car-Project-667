@@ -10,7 +10,6 @@ Welcome to the **Car Project Using Arduino**! In this project, we will build a s
 - [Features](#features)
 - [Components Required](#components-required)
 - [Wiring Diagram](#wiring-diagram)
-- [Arduino Code](#arduino-code)
 - [Installation](#installation)
 - [How to Use](#how-to-use)
 - [Future Improvements](#future-improvements)
