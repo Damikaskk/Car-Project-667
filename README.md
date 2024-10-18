@@ -6,7 +6,7 @@ Welcome to the **Car Project Using Arduino**! In this project, we will build a s
 
 ## Table of Contents
 
-- [Arduino Code](#src/x.cpp)
+- [`x.cpp`](./x.cpp)
 - [Introduction](#introduction)
 - [Features](#features)
 - [Components Required](#components-required)
