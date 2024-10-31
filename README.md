@@ -8,7 +8,7 @@ Welcome to the **Car Project Using Arduino**! In this project, we will build a s
 
 - [Introduction](#introduction)
 - [Features](#features)
-- [Google Docs Link](#https://docs.google.com/document/d/1o8-U-m10rtVJzTOSS3xftw8My19UU8IhWQbNSGpuQuU/edit?tab=t.0)
+- [Google Docs Link](#google-docs-link)
 - [Components Required](#components-required)
 - [Wiring Diagram](#wiring-diagram)
 - [Arduino Code](./x.cpp)
@@ -17,6 +17,10 @@ Welcome to the **Car Project Using Arduino**! In this project, we will build a s
 - [Future Improvements](#future-improvements)
 - [Contributing](#contributing)
 - [License](#license)
+
+## Google Docs Link
+
+[Project Document on Google Docs](https://docs.google.com/document/d/1o8-U-m10rtVJzTOSS3xftw8My19UU8IhWQbNSGpuQuU/edit?tab=t.0)
 
 ---
 
