@@ -18,10 +18,6 @@ Welcome to the **Car Project Using Arduino**! In this project, we will build a s
 - [Contributing](#contributing)
 - [License](#license)
 
-## Google Docs Link
-
-[Project Document on Google Docs](https://docs.google.com/document/d/1o8-U-m10rtVJzTOSS3xftw8My19UU8IhWQbNSGpuQuU/edit?tab=t.0)
-
 ---
 
 ## Introduction
@@ -36,6 +32,12 @@ This project aims to teach you how to create a simple robotic car using an Ardui
 - **Motor Control:** Control DC motors using an L298N motor driver
 - **Expandable:** Easily add features like sensors (ultrasonic, infrared), Bluetooth control, and more
 - **Customizable:** Modify the code to create your own custom behavior
+
+---
+
+## Google Docs Link
+
+[Project Document on Google Docs](https://docs.google.com/document/d/1o8-U-m10rtVJzTOSS3xftw8My19UU8IhWQbNSGpuQuU/edit?tab=t.0)
 
 ---
 
