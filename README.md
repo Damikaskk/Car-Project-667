@@ -52,9 +52,10 @@ To build this project, you will need the following components:
 5. **Caster Wheel** (for balance)
 6. **Battery Pack** (6-12V)
 7. **Jumper Wires** (male-male, male-female)
-8. **Breadboard** (optional, for wiring)
-9. **Ultrasonic Sensor (optional)** (for obstacle avoidance)
-10. **Bluetooth Module (optional)** (for remote control)
+8. **Breadboard** (for wiring)
+9. **Ultrasonic Sensor ** (for obstacle avoidance)
+10. **Infrared Proximity Sensor** (for colour detection)
+11. **Bluetooth Module (optional)** (for remote control)
 
 ---
 
