@@ -53,7 +53,7 @@ To build this project, you will need the following components:
 6. **Battery Pack** (6-12V)
 7. **Jumper Wires** (male-male, male-female)
 8. **Breadboard** (for wiring)
-9. **Ultrasonic Sensor ** (for obstacle avoidance)
+9. **Ultrasonic Sensor** (for obstacle avoidance)
 10. **Infrared Proximity Sensor** (for colour detection)
 11. **Bluetooth Module (optional)** (for remote control)
 
