@@ -10,6 +10,7 @@ Welcome to the **Car Project Using Arduino**! In this project, we will build a s
 - [Features](#features)
 - [Google Docs Link](#google-docs-link)
 - [Components Required](#components-required)
+- [TinkerCad simulation](#TinkerCad-Simulation)
 - [Wiring Diagram](#wiring-diagram)
 - [Arduino Code](./x.cpp)
 - [Installation](#installation)
@@ -58,6 +59,11 @@ To build this project, you will need the following components:
 11. **Bluetooth Module (optional)** (for remote control)
 
 ---
+
+## TinkerCad simulation
+
+[TinkerCad simulation](https://www.tinkercad.com/things/4P4ySpi3wic-mighty-wluff?sharecode=auJ9209sQoQ14USGbdtVZcpxAol-b1w94P8foXgKs_o)
+
 
 ## Wiring Diagram
 
