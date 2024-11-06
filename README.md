@@ -9,6 +9,7 @@ Welcome to the **Car Project Using Arduino**! In this project, we will build a s
 - [Introduction](#introduction)
 - [Features](#features)
 - [Google Docs Link](#google-docs-link)
+- [Bill of Quantities](#bill-of-quantities)
 - [Components Required](#components-required)
 - [TinkerCad simulation](#TinkerCad-Simulation)
 - [Wiring Diagram](#wiring-diagram)
@@ -42,6 +43,10 @@ This project aims to teach you how to create a simple robotic car using an Ardui
 
 ---
 
+## Bill of Quantities
+
+[Bill of Quantities (Google Spreadsheets Link)](https://docs.google.com/spreadsheets/d/1KkJ_dWkF8nYa8-u3Bk-85Pyyg0xY0FBGaw-wdQWuhwM/edit?usp=sharing)
+
 ## Components Required
 
 To build this project, you will need the following components:
@@ -60,9 +65,11 @@ To build this project, you will need the following components:
 
 ---
 
-## TinkerCad simulation
+## TinkerCad Simulation
 
-[TinkerCad simulation](https://www.tinkercad.com/things/4P4ySpi3wic-mighty-wluff?sharecode=auJ9209sQoQ14USGbdtVZcpxAol-b1w94P8foXgKs_o)
+[TinkerCad Simulation](https://www.tinkercad.com/things/4P4ySpi3wic-mighty-wluff?sharecode=auJ9209sQoQ14USGbdtVZcpxAol-b1w94P8foXgKs_o)
+
+---
 
 
 ## Wiring Diagram
