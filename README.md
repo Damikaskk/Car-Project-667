@@ -77,7 +77,7 @@ To build this project, you will need the following components:
 Below is the basic wiring diagram for the car:
 
 1. **DC Motors**: Connect the two DC motors to the outputs of the L298N motor driver (OUT1, OUT2 for one motor, and OUT3, OUT4 for the other motor).
-2. **L298N Motor Driver**: Connect the `IN1`, `IN2`, `IN3`, and `IN4` pins of the motor driver to digital pins on the Arduino (e.g., pins 9, 8, 7, and 6, respectively).
+2. **L293D Motor Driver**: Connect the `IN1`, `IN2`, `IN3`, and `IN4` pins of the motor driver to digital pins on the Arduino (e.g., pins 9, 8, 7, and 6, respectively).
 3. **Power Supply**: Connect the battery pack to the L293D motor driver (12V input and ground). Also, provide power to the Arduino (through the power jack or the VIN pin).
 4. **Arduino**: Ensure that the Arduino has a common ground connection with the motor driver.
 
@@ -113,7 +113,7 @@ Below is the basic wiring diagram for the car:
 ## How to Use
 
 1. **Power the Car:** 
-   Connect your battery pack to the L298N motor driver and Arduino.
+   Connect your battery pack to the L293D motor driver and Arduino.
 
 2. **Test Basic Movements:** 
    Once the code is uploaded, the car will move forward for 2 seconds, backward for 2 seconds, and then stop.
