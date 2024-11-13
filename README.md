@@ -52,7 +52,7 @@ This project aims to teach you how to create a simple robotic car using an Ardui
 To build this project, you will need the following components:
 
 1. **Arduino Uno** (or compatible board)
-2. **L298N Motor Driver**
+2. **L293D Motor Driver**
 3. **DC Motors (x2)** (with wheels)
 4. **Chassis** (for car body)
 5. **Caster Wheel** (for balance)
