@@ -31,7 +31,7 @@ This project aims to teach you how to create a simple robotic car using an Ardui
 ## Features
 
 - **Basic Movements:** Forward, backward, left, right
-- **Motor Control:** Control DC motors using an L298N motor driver
+- **Motor Control:** Control DC motors using an L293D motor driver
 - **Expandable:** Easily add features like sensors (ultrasonic, infrared), Bluetooth control, and more
 - **Customizable:** Modify the code to create your own custom behavior
 
