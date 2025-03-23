@@ -120,9 +120,9 @@ void loop() {
     lcd.print("Color: " + detectedColor);
 
     lcd.setCursor(0, 1);
-    lcd.print("                "); // Clear the line
-    lcd.setCursor(0, 1);
-    lcd.print(currentMessage);
+    lcd.print("Dist: ");
+    lcd.print(distance);
+    lcd.print(" cm   "); // Clear old characters if needed
 
     lastMessage = currentMessage;
   }
